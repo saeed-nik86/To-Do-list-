@@ -1,0 +1,18 @@
+{
+  "works": [
+    {
+      "title": "help my mother and drink water",
+      "Information": "Lorem ipsum dolor sit amet\nminima fugit deserunt aspernatur fuga commodi ex,\ntemporibus dicta magni deleniti laborum quasi ullam vel dolore officiis\nnam ab. Unde recusandae excepturi aut,\noptio ea debitis soluta perspiciatis saepe beatae sit asperiores,\nmaiores quibusdam molestias cupiditate!",
+      "Condition": true,
+      "Trash": true,
+      "id": "first"
+    },
+    {
+      "id": "03a6",
+      "title": "do homwork",
+      "Information": "we shote do it just do it i sat do it why are you not do it ",
+      "Condition": true,
+      "Trash": false
+    }
+  ]
+}
